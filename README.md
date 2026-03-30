@@ -35,13 +35,10 @@ This project presents a comprehensive analysis of Airbnb’s global performance 
 
 ## 📷 Dashboard Snapshots
 
-**Overview Dashboard**
 ![Overview](overview.png)
 
-**Ratings & Market Analysis**
 ![Ratings](ratings.png)
 
-**Reviews & Seasonal Trends**
 ![Review](review.png)
 
 ---
