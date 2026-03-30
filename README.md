@@ -57,7 +57,7 @@ Due to file size constraints, a representative sample dataset is included:
 ## 📥 Access to Full Dashboard
 
 The complete Power BI dashboard file can be accessed here:
-👉 [[View Dashboard](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)](https://drive.google.com/file/d/1R6Oe-S1WCjhxlk8wKjyJVwkXIFJNo8zM/view?usp=drive_link)
+👉 (https://drive.google.com/file/d/1R6Oe-S1WCjhxlk8wKjyJVwkXIFJNo8zM/view?usp=drive_link)
 
 ---
 
