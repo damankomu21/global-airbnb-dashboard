@@ -92,9 +92,21 @@ The project provides a structured view of Airbnb’s marketplace, enabling deepe
 
 ---
 
-## 👤 Author
+---
 
-**Daman Komu**
+## 👤 About the Author
+
+**Daman Komu** *Data Analyst | Business Intelligence Specialist*
+
+I am a results-driven Data Analyst passionate about transforming raw data into actionable business insights. My expertise lies in building interactive dashboards, identifying market trends, and optimizing data workflows to drive informed decision-making.
+
+### 🛠️ Technical Stack
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) 
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+
+---
 
 # 📬 Contact & Connect
 
