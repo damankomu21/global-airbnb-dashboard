@@ -35,7 +35,7 @@ This project presents a comprehensive analysis of Airbnb’s global performance 
 
 ## 📷 Dashboard Snapshots
 
-![Overview](overview.png)
+(overview.png)
 
 ![Ratings](ratings.png)
 
