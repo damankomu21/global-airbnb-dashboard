@@ -1,4 +1,4 @@
-# Global Airbnb Performance Analysis Dashboard
+# Global Airbnb Dashboard
 
 ## 📌 Project Overview
 
@@ -48,7 +48,7 @@ This analysis enables stakeholders to:
 
 ## 📷 Dashboard Snapshots
 
-### Global Airbnb Performance Dashboards
+### Global Airbnb Dashboards
 
 #### 1. Overview Dashboard
 ![Overview Dashboard](Overview.png.png)
